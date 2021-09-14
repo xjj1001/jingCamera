@@ -1,6 +1,6 @@
 import httpx
 from lxml import etree
-import execjs
+import execjs  # pip install PyExecJS
 
 
 class JingCamera(object):
